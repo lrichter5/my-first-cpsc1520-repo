@@ -11,3 +11,9 @@ This is a code repository for me to learn about Version Control using Git.
 - Create a good .gitattributes file from [GitAttributes.io]
   (https://gitattributes.io)
 - Commit my changes from within Visual Studio Code
+- Commit my changes via the command line (click <ctrl>` in VSCode)
+  - `git add .`
+  - `git status`
+  - `git command -m "My Message (in quotes)"`
+  - `git pull`
+  - `git push`
